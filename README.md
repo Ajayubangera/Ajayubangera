@@ -25,7 +25,7 @@ This is a ✨ special ✨ repository because its README.md (this file) appears o
 ## 🌐 Socials:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ajay-u-bangera-39466432a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-[![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Ajay U Bangera)
+[![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](ttps://github.com/Ajayubangera/myportfolio)
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ubangera.ajay27@gmail.com)
 
 ## 💻 Tech Stack:
