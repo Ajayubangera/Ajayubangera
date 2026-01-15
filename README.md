@@ -14,7 +14,7 @@ This is a ✨ special ✨ repository because its README.md (this file) appears o
 
 * 💬 Ask me about **Java** development or the intricacies of **face reconstruction** techniques.
 * 📫 How to reach me:
-    * **Personal Portfolio (Live Site):** https://myportfolio-topaz-seven-22.vercel.app/
+    * **Personal Portfolio (Live Site):** https://ajay-u-bangera.vercel.app/
     * **LinkedIn:** https://www.linkedin.com/in/ajay-u-bangera-39466432a
     * **Portfolio GitHub Repo:** https://github.com/Ajayubangera/myportfolio
 * 😄 Pronouns: **He/Him**
